@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Home from "./components/temp";
-import Profile from "./components/temp2";
+import Home from "./components/Home";
+import Profile from "./components/Profile";
 import Notifications from "./components/Notifications";
 
 function App() {
